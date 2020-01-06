@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Questrial', sans-serif;
+  color: orange;
+  background: linear-gradient(
+    135deg,
+    rgba(25, 236, 188, 1) 0%,
+    rgba(25, 236, 188, 1) 50%,
+    rgba(150, 155, 153, 1) 50%,
+    rgba(150, 155, 153, 1) 100%
+  );
+}
